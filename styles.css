@@ -1,0 +1,38 @@
+body{
+ background-image: url("http://www.fijislands.com/wp-content/uploads/2015/12/Monuriki-Island.jpg");
+    Background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+h1{
+text-align:center;
+}
+nav {
+ font-weight: bold;
+background:rgba(241,232,105,.3);
+}
+
+.heading{
+background:rgba(255,255,255,.3);
+    
+}
+.main{
+  width: 100%;
+    background: rgba(255, 255, 255, .6);
+}
+aside{
+    text-align: center;
+display:flex;
+    font-size:24px;
+    padding:3px;
+}
+section{
+justify-content:flex-start;
+}
+.oscar picture{
+justify-content:flex-end;
+}
+img{
+width:250px;
+}
